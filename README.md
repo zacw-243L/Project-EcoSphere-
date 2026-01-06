@@ -75,4 +75,4 @@ This project provided deep hands-on experience in:
 
 **Outcome**: Earned an **A** grade for my subsystem; the overall team project achieved strong performance across all deliverables (prototype, report, and class presentation).
 
-Feel free to explore the code in the repository — especially the Temperature Control System folder — for implementation details.
+Feel free to explore the code in the repository especially the Temperature Control System folder for implementation details.
