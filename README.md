@@ -18,6 +18,13 @@ Displays the current state of the air conditioning unit (on or off) on a 7-segme
 
 By implementing these functionalities, the system ensures efficient and convenient control of air conditioning units while promoting energy-saving practices.
 
+# Block Diagram
+
+<img width="906" height="460" alt="image" src="https://github.com/user-attachments/assets/4a60d2dd-3e4c-4f6c-8230-7b552d07f229" />
+
+# Schematic / Circuit Diagram
+
+<img width="917" height="909" alt="image" src="https://github.com/user-attachments/assets/dc0da38e-70da-4535-b8a7-0657995a5034" />
 
 
 
