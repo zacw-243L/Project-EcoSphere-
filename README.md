@@ -32,8 +32,16 @@ By implementing these functionalities, the system ensures efficient and convenie
 
 <img width="900" height="573" alt="image" src="https://github.com/user-attachments/assets/637a74b7-96d4-4d60-bcc5-22b85c822fd7" />
 
+# Flow Chart
 
+## BBBW Web Client
+<img width="896" height="750" alt="image" src="https://github.com/user-attachments/assets/11fd08e8-2090-4280-9b7d-6415e0433a38" />
 
+## PC Web Server
+<img width="845" height="643" alt="image" src="https://github.com/user-attachments/assets/a8b93617-cbff-4562-843e-3dee4f65aca2" />
+
+## PC Web Page
+<img width="803" height="765" alt="image" src="https://github.com/user-attachments/assets/1b4e432a-ff73-4747-9fd4-3ea001b04276" />
 
 
 # Link below to demonstration of the project
