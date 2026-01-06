@@ -6,7 +6,7 @@
 
 This project, completed over 16 weeks, required the design, implementation, and demonstration of a **connected embedded system** for a sustainable, green living environment. Using the **BeagleBone Black Wireless (BBBW)** as the edge computing device running Linux, we interfaced multiple **mikroBUS Click boards** (sensors, displays, and actuators) via a mikroBUS cape. A laptop hosted the web server, enabling bidirectional communication: users could monitor real-time data from the BBBW and send control commands back to the board.
 
-The system promoted **energy efficiency** and **user convenience** through intelligent automation. My primary responsibility was the **Temperature Control System** subsystem — a centralised solution for managing multiple air conditioning units in a smart home.
+The system promoted **energy efficiency** and **user convenience** through intelligent automation. My primary responsibility was the **Temperature Control System** subsystem a centralised solution for managing multiple air conditioning units in a smart home.
 
 ### Key Features of the Temperature Control Subsystem
 
