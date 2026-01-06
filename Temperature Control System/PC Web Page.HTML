@@ -1,0 +1,40 @@
+<html>
+   <head>
+      <meta charset="UTF-8">
+      <title>Smart Thermostat</title>
+      <meta http-equiv="x-ua-compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1" />
+      <link rel='stylesheet' href="{{ url_for('static', filename='css/style.css') }}">
+
+      <!Use of Javascript library socket.io.js to connect to the python web server––>
+      <script src='https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js'></script>
+      <script src='https://cdnjs.cloudflare.com/ajax/libs/socket.io/3.1.2/socket.io.js'></script>
+      <script type='text/javascript'>
+         $(document).ready(function(){
+	    var socket = io.connect('http://192.168.0.103:5000');
+          socket.on('Web_Room', function(RxData) {
+            $(Tempreture).text(RxData.data);
+          });
+          socket.on('Web_state', function(RxData) {
+            $(State).text(RxData.data)
+          });
+          socket.on('Web_Eco_State', function(RxData) {
+            $(Eco).text(RxData.data)
+          })
+          socket.on('Web_Count', function(RxData) {
+            $(Count).text(RxData.data)
+          })
+         });
+      </script>
+   </head>
+   <body>
+      <main>
+         <div class="HEADER">
+            <h1>Smart Thermostat</h1>
+        </div>
+        <p class="DDD">Temperature of room is: <Tempreture>???</Tempreture></p>
+        <p>Air Conditioner: <State>???</State></p>
+        <p>Eco Mode: <Eco>???</Eco></p>
+        <p>No. of people in room: <Count>???</Count></p>
+      </main>
+   </body>
