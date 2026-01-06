@@ -41,21 +41,24 @@ The system promoted **energy efficiency** and **user convenience** through intel
 *(High-level overview of system components and data flow)*
 
 #### Schematic / Circuit Diagrams
-![Schematic 1](https://github.com/zacw-243L/Project-EcoSphere-/raw/main/images/schematic_1.png)  
-![Schematic 2](https://github.com/zacw-243L/Project-EcoSphere-/raw/main/images/schematic_2.png)  
-![Schematic 3](https://github.com/zacw-243L/Project-EcoSphere-/raw/main/images/schematic_3.png)  
-![Schematic 4](https://github.com/zacw-243L/Project-EcoSphere-/raw/main/images/schematic_4.png)
+<img width="917" height="909" alt="image" src="https://github.com/user-attachments/assets/dc0da38e-70da-4535-b8a7-0657995a5034" />
+
+<img width="883" height="794" alt="image" src="https://github.com/user-attachments/assets/fb08d687-bb8b-4a25-8d2f-196fc94a8ab2" />
+
+<img width="901" height="874" alt="image" src="https://github.com/user-attachments/assets/7de66962-d86b-46e5-946e-0a382e85015d" />
+
+<img width="900" height="573" alt="image" src="https://github.com/user-attachments/assets/637a74b7-96d4-4d60-bcc5-22b85c822fd7" />
 
 #### Flow Charts
 
-**BBBW Web Client Flow**  
-![BBBW Web Client Flow](https://github.com/zacw-243L/Project-EcoSphere-/raw/main/images/bbbw_flow.png)
+## BBBW Web Client
+<img width="896" height="750" alt="image" src="https://github.com/user-attachments/assets/11fd08e8-2090-4280-9b7d-6415e0433a38" />
 
-**PC Web Server Flow**  
-![PC Web Server Flow](https://github.com/zacw-243L/Project-EcoSphere-/raw/main/images/server_flow.png)
+## PC Web Server
+<img width="845" height="643" alt="image" src="https://github.com/user-attachments/assets/a8b93617-cbff-4562-843e-3dee4f65aca2" />
 
-**PC Web Interface**  
-![PC Web Page](https://github.com/zacw-243L/Project-EcoSphere-/raw/main/images/web_interface.png)
+## PC Web Page
+<img width="803" height="765" alt="image" src="https://github.com/user-attachments/assets/1b4e432a-ff73-4747-9fd4-3ea001b04276" />
 
 ### Demonstration Video
 A prototype demonstration of a related smart light subsystem (occupancy detection + dimmer control) from a teammate:
