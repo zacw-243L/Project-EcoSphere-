@@ -36,7 +36,7 @@ The system promoted **energy efficiency** and **user convenience** through intel
 ### Diagrams
 
 #### Block Diagram
-![Block Diagram](https://github.com/zacw-243L/Project-EcoSphere-/raw/main/images/block_diagram.png)  
+<img width="906" height="460" alt="image" src="<https://github.com/user-attachments/assets/4a60d2dd-3e4c-4f6c-8230-7b552d07f229>" />
 *(High-level overview of system components and data flow)*
 
 #### Schematic / Circuit Diagrams
