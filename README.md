@@ -26,6 +26,14 @@ By implementing these functionalities, the system ensures efficient and convenie
 
 <img width="917" height="909" alt="image" src="https://github.com/user-attachments/assets/dc0da38e-70da-4535-b8a7-0657995a5034" />
 
+<img width="883" height="794" alt="image" src="https://github.com/user-attachments/assets/fb08d687-bb8b-4a25-8d2f-196fc94a8ab2" />
+
+<img width="901" height="874" alt="image" src="https://github.com/user-attachments/assets/7de66962-d86b-46e5-946e-0a382e85015d" />
+
+<img width="900" height="573" alt="image" src="https://github.com/user-attachments/assets/637a74b7-96d4-4d60-bcc5-22b85c822fd7" />
+
+
+
 
 
 # Link below to demonstration of the project
